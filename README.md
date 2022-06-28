@@ -56,4 +56,5 @@
 <a href="https://e.mail.ru/compose/" title="telegram">
     <img align="left" src="./email-svgrepo-com.svg" alt="email" width="26px" height="26px"/>
   </a>
- Email: a_yushachkov@mail.ru
+
+* Email: a_yushachkov@mail.ru
